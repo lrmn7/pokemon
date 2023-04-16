@@ -1,4 +1,4 @@
-# PkDx: A PokeDex app
+# A Pokemon app
 
 <p align="center">
   <img src="public/android-chrome-192x192.png" alt='POKEMON'>
