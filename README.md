@@ -5,7 +5,7 @@
 </p>
 
 <p align='center'>
-A simple pokedex web app built with react.js & typescript made by <a href='https://LRMN.is-a.dev'>L RMN</a>.
+A simple pokemon web app built with react.js & typescript made by <a href='https://LRMN.is-a.dev'>L RMN</a>.
 </p>
 
 <p align="center">
